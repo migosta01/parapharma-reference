@@ -1,0 +1,80 @@
+{
+  "export_format": "funnel-pruner-section-pack-v4",
+  "exported_at": "2026-08-27T14:41:07.903Z",
+  "source_url": "https://orvele.com/products/hydrocolloid-roll-2?_su_rec=-qfTtl9v81x9DcBW8753CnMPk2EgnogtPevaILrqsGmcyzFLceCEGglXs-32Y8HaC1xijGGbUlzj6h5D5Tdb9KrfmazfG94aB9FPb5kOAdwzdHqlWY_i2Tl2iF_aGYSeBf2kbZArC2HeEH7yh6mLIPD628I1WhMDnOdJ_OPQ_Bh5C67xDd3wTn-B6qDM0LgcTt_df_uvc9-V_z_beaCzywI4GX7N00I271j5zPso7Yl9V6Z97SHzgSze&_su_rec_id=e04b3fce-ff9d-495e-8f0a-7eaa73c9e8d0-1787841582",
+  "page_title": "Orvele™ Hydrocolloid Roll For Molluscum",
+  "section_count": 7,
+  "options": {
+    "extraction_only": true,
+    "ai_removed": true,
+    "text_adaptation_removed": true,
+    "mobile_screenshots_removed": true
+  },
+  "root_files": [
+    "README.txt",
+    "source_url.txt",
+    "build_manifest.json",
+    "page_rendered.html",
+    "page_styles.css",
+    "page_scripts.js",
+    "visual_spec.json",
+    "asset_map.json"
+  ],
+  "section_files": [
+    "section.png",
+    "section_code.html",
+    "section.html",
+    "section.css",
+    "section_assets.json",
+    "visual_spec.json",
+    "asset_map.json",
+    "stylesheet_links.txt",
+    "script_links.txt",
+    "inline_script_context.js",
+    "README.txt"
+  ],
+  "sections": [
+    {
+      "index": 1,
+      "title": "Orvele™ Hydrocolloid Roll For Molluscum",
+      "slug": "01-orveletm-hydrocolloid-roll-for-molluscum",
+      "asset_count": 161
+    },
+    {
+      "index": 2,
+      "title": "The Experience",
+      "slug": "02-the-experience",
+      "asset_count": 146
+    },
+    {
+      "index": 3,
+      "title": "How it works",
+      "slug": "03-how-it-works",
+      "asset_count": 146
+    },
+    {
+      "index": 4,
+      "title": "Backed by over 10,839+‎ Happy customers",
+      "slug": "04-backed-by-over-10-839-happy-customers",
+      "asset_count": 145
+    },
+    {
+      "index": 5,
+      "title": "section-5",
+      "slug": "05-section-5",
+      "asset_count": 145
+    },
+    {
+      "index": 6,
+      "title": "Money-Back Guarantee",
+      "slug": "06-money-back-guarantee",
+      "asset_count": 145
+    },
+    {
+      "index": 7,
+      "title": "Customer Reviews",
+      "slug": "07-customer-reviews",
+      "asset_count": 150
+    }
+  ]
+}

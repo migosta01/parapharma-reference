@@ -1,0 +1,49 @@
+{
+  "section_slug": "07-customer-reviews",
+  "section_title": "Customer Reviews",
+  "assets": {
+    "hero_image": null,
+    "hero_video": null,
+    "hero_video_poster": null,
+    "gallery_row1": [],
+    "gallery_row2": [],
+    "gallery_images": [],
+    "review_images": [
+      {
+        "url": "https://review-images.judgeme.com/orvele/1787613424__1787613420849-1245c2c5-8db8-4d15-a253-80__original.jpeg?quality=80&width=480",
+        "alt": "Review Image",
+        "type": "image",
+        "width": 480
+      },
+      {
+        "url": "https://review-images.judgeme.com/orvele/1787496031__1787496021500-img_2560__original.jpeg?quality=80&width=480",
+        "alt": "Review Image",
+        "type": "image",
+        "width": 480
+      },
+      {
+        "url": "https://review-images.judgeme.com/orvele/1787496035__1787496021501-img_2561__original.jpeg?quality=80&width=480",
+        "alt": "Review Image",
+        "type": "image",
+        "width": 480
+      },
+      {
+        "url": "https://review-images.judgeme.com/orvele/1787453750__1787453745760-20260714_205321__original.jpg?quality=80&width=480",
+        "alt": "Review Image",
+        "type": "image",
+        "width": 480
+      }
+    ],
+    "product_image": null,
+    "competitor_images": [],
+    "expert_image": null,
+    "icons": [],
+    "badge_images": [
+      {
+        "url": "https://public-images.judge.me/judgeme/verified-badge-v2/verified-by-shop_light.svg",
+        "alt": "Verified by Shop",
+        "type": "image"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "section_slug": "03-how-it-works",
+  "section_title": "How it works",
+  "assets": {
+    "hero_image": {
+      "url": "https://orvele.com/cdn/shop/files/g1.gif?v=1760145357&width=1600",
+      "alt": "How it",
+      "type": "gif",
+      "width": 1600
+    },
+    "hero_video": null,
+    "hero_video_poster": null,
+    "gallery_row1": [],
+    "gallery_row2": [],
+    "gallery_images": [],
+    "review_images": [],
+    "product_image": null,
+    "competitor_images": [],
+    "expert_image": null,
+    "icons": [],
+    "badge_images": []
+  }
+}

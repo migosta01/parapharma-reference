@@ -1,0 +1,23 @@
+{
+  "section_slug": "02-the-experience",
+  "section_title": "The Experience",
+  "assets": {
+    "hero_image": {
+      "url": "https://orvele.com/cdn/shop/files/orvele-week1-results.png?v=1786385197&width=1600",
+      "alt": "The",
+      "type": "image",
+      "width": 1600
+    },
+    "hero_video": null,
+    "hero_video_poster": null,
+    "gallery_row1": [],
+    "gallery_row2": [],
+    "gallery_images": [],
+    "review_images": [],
+    "product_image": null,
+    "competitor_images": [],
+    "expert_image": null,
+    "icons": [],
+    "badge_images": []
+  }
+}

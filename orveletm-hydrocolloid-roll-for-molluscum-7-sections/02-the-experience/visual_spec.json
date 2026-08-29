@@ -1,0 +1,43 @@
+{
+  "section_title": "The Experience",
+  "section_slug": "02-the-experience",
+  "section_tag": "section",
+  "section_id": "shopify-section-template--20083730448562__image_with_text_kknfyi",
+  "section_classes": [
+    "shopify-section",
+    "section",
+    "fp-selected"
+  ],
+  "style_dna": {
+    "bg": "rgb(247, 252, 255)",
+    "container_max_width": "374px",
+    "container_padding": "0px",
+    "font": "Montserrat, sans-serif",
+    "text_color": "rgb(24, 27, 29)"
+  },
+  "capture": {
+    "viewport": {
+      "dpr": 3.0000001192092896,
+      "height": 1521,
+      "width": 704
+    },
+    "clip": {
+      "height": 805,
+      "width": 374,
+      "x": 8,
+      "y": 2638
+    }
+  },
+  "content_summary": {
+    "raw_text_preview": "The Experience\nThousands of people wear Orvele every day.\nCovers from the first application — the hydrocolloid absorbs\nfluid and holds the area under a sealed, discreet layer.\nStays put while you wear it — the cover sits flat and smooth\nagainst the skin.\nCut it to any size — one seamless piece covers a wider area or\nseveral bumps at once.\n2",
+    "image_count": 1,
+    "background_image_count": 0,
+    "link_button_count": 0
+  },
+  "inspect_summary": {
+    "inline_svg_count": 0,
+    "icon_node_count": 1,
+    "key_node_count": 6
+  },
+  "asset_count": 146
+}

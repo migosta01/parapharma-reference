@@ -1,0 +1,43 @@
+{
+  "section_title": "Customer Reviews",
+  "section_slug": "07-customer-reviews",
+  "section_tag": "section",
+  "section_id": "shopify-section-template--20083730448562__178637240050be9ebf",
+  "section_classes": [
+    "shopify-section",
+    "section",
+    "fp-selected"
+  ],
+  "style_dna": {
+    "bg": "rgb(247, 252, 255)",
+    "container_max_width": "338px",
+    "container_padding": "0px",
+    "font": "Montserrat, sans-serif",
+    "text_color": "rgb(24, 27, 29)"
+  },
+  "capture": {
+    "viewport": {
+      "dpr": 3.0000001192092896,
+      "height": 1521,
+      "width": 704
+    },
+    "clip": {
+      "height": 2080,
+      "width": 338,
+      "x": 26,
+      "y": 5173
+    }
+  },
+  "content_summary": {
+    "raw_text_preview": "Customer Reviews\n3.9\n71 reviews\nVerified\nWrite a review\nSort reviews by\nMost recent\nHighest rating\nLowest rating\nOnly pictures\nPictures first\nVideos first\nMost helpful\n8\n\n\n\n\n\nA\nAnonymous\nVerified\n08/25/2026\nDoes stay on. Get patches. Cheaper and they stay on.\n\n\n\n\n\nA\nAnonymous\nVerified\n08/25/2026\nThis is the worst product I've ever bought. it doesn't work and in fact made the molluscum worse.\n\n\n\n\n\nJ\nJillian Uber\nVerified\n08/23/2026\nI had low expectations for this tape as I had tried a cream for my 3 year olds molluscum bumps. I noticed within a few days that the bumps were starting to react to the tape which is helping to get rid of them faster. I would definitely recommend this to any parent looking for some solution to molluscum.\nMore\n9\n\n\n\n\n\nS\nSamantha Holdorf\nVerified\n/* trimmed for size safety */",
+    "image_count": 5,
+    "background_image_count": 0,
+    "link_button_count": 10
+  },
+  "inspect_summary": {
+    "inline_svg_count": 8,
+    "icon_node_count": 45,
+    "key_node_count": 71
+  },
+  "asset_count": 150
+}

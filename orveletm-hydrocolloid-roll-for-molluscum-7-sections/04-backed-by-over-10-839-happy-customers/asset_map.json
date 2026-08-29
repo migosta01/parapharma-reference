@@ -1,0 +1,1023 @@
+{
+  "section_title": "Backed by over 10,839+‎ Happy customers",
+  "section_slug": "04-backed-by-over-10-839-happy-customers",
+  "section_assets_file": "04-backed-by-over-10-839-happy-customers/section_assets.json",
+  "asset_count": 145,
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/custom-font.css?v=22153140025258366751757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-01.css"
+    },
+    {
+      "id": "asset-02",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-02.css"
+    },
+    {
+      "id": "asset-03",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/base.css?v=159082689992714089461757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-03.css"
+    },
+    {
+      "id": "asset-04",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/custom-product-grid.css?v=172973792934893485921757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-04.css"
+    },
+    {
+      "id": "asset-05",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/card-media-fix.css?v=83585548888314100341757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-05.css"
+    },
+    {
+      "id": "asset-06",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/universal-font-fix.css?v=118480617659599840311757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-06.css"
+    },
+    {
+      "id": "asset-07",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/button-styling.css?v=91187720475150489261757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-07.css"
+    },
+    {
+      "id": "asset-08",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/app-typography-fix.css?v=176757307308658524861757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-08.css"
+    },
+    {
+      "id": "asset-09",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/global-headings.css?v=13206503642955595841757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-09.css"
+    },
+    {
+      "id": "asset-10",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/accent-typography.css?v=13464687505203708271757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-10.css"
+    },
+    {
+      "id": "asset-11",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/selective-heading-fonts.css?v=78250031937920606031757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-11.css"
+    },
+    {
+      "id": "asset-12",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/size-chart.css?v=78385087547040405461757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-12.css"
+    },
+    {
+      "id": "asset-13",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/typography-system.css?v=89924751902568363161757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-13.css"
+    },
+    {
+      "id": "asset-14",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-cart-items.css?v=56839410619724351121757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-14.css"
+    },
+    {
+      "id": "asset-15",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-cart-drawer.css?v=58659587295744084491757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-15.css"
+    },
+    {
+      "id": "asset-16",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-cart.css?v=117830888434395639861757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-16.css"
+    },
+    {
+      "id": "asset-17",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-totals.css?v=96622895553772688231757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-17.css"
+    },
+    {
+      "id": "asset-18",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-price.css?v=27810970649970133751757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-18.css"
+    },
+    {
+      "id": "asset-19",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-discounts.css?v=52727383493039289031757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-19.css"
+    },
+    {
+      "id": "asset-20",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-localization-form.css?v=176251065495471494031757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-20.css"
+    },
+    {
+      "id": "asset-21",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-predictive-search.css?v=125563765146039606751757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-21.css"
+    },
+    {
+      "id": "asset-22",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/slick.css?v=64919337164265883641757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-22.css"
+    },
+    {
+      "id": "asset-23",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/custom.css?v=87270766429827161521757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-23.css"
+    },
+    {
+      "id": "asset-24",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a04377-df7b-7b6c-a35a-a182826897a7/kaching-bundles-1960/assets/kaching-bundles.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-24.css"
+    },
+    {
+      "id": "asset-25",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a04224-769a-79c9-84e5-63815d104353/redo-v1.287343/assets/2619-a115bc9f.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-25.css"
+    },
+    {
+      "id": "asset-26",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/layout-DoosNJCm.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-26.css"
+    },
+    {
+      "id": "asset-27",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/ReviewWidget-BYX-Jo1Z.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-27.css"
+    },
+    {
+      "id": "asset-28",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Stack-DHDZjISx.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-28.css"
+    },
+    {
+      "id": "asset-29",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/LoadingOverlay-CmkTdyRm.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-29.css"
+    },
+    {
+      "id": "asset-30",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Cluster-CiawKNFa.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-30.css"
+    },
+    {
+      "id": "asset-31",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Center-DuedLykc.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-31.css"
+    },
+    {
+      "id": "asset-32",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Text-CQZ7f97l.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-32.css"
+    },
+    {
+      "id": "asset-33",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Button-Bfno6Nex.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-33.css"
+    },
+    {
+      "id": "asset-34",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Icon-Dm_usQ00.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-34.css"
+    },
+    {
+      "id": "asset-35",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/StarRating-CcPYmFC3.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-35.css"
+    },
+    {
+      "id": "asset-36",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/VerifiedBadge-eNLj4JNJ.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-36.css"
+    },
+    {
+      "id": "asset-37",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/JmModal-CkjWUkR6.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-37.css"
+    },
+    {
+      "id": "asset-38",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/SiwsChooser-CcBCjvMY.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-38.css"
+    },
+    {
+      "id": "asset-39",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/JmInput-C8M2T55B.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-39.css"
+    },
+    {
+      "id": "asset-40",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Box-DtEw4VQg.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-40.css"
+    },
+    {
+      "id": "asset-41",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/reviewWidgetHeaderProps-DrMBjCiI.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-41.css"
+    },
+    {
+      "id": "asset-42",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/ReviewWidgetMinimalHeader-Bz1T9ich.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-42.css"
+    },
+    {
+      "id": "asset-43",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/ReviewContent-DzgWFMUg.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-43.css"
+    },
+    {
+      "id": "asset-44",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/Frame-B8MXG7Dz.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-44.css"
+    },
+    {
+      "id": "asset-45",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/ReviewItem-CngehbVU.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-45.css"
+    },
+    {
+      "id": "asset-46",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/JCarousel-tmrYLSv7.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-46.css"
+    },
+    {
+      "id": "asset-47",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/ReviewWidgetBody-ByIH3u9-.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-47.css"
+    },
+    {
+      "id": "asset-48",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/PaginationControls-C0Q15dFE.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-48.css"
+    },
+    {
+      "id": "asset-49",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/JLightboxContent-CXehstry.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-49.css"
+    },
+    {
+      "id": "asset-50",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/JLightbox-CDm52qls.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-50.css"
+    },
+    {
+      "id": "asset-51",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/MedalsList-CBJ7s4XW.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-51.css"
+    },
+    {
+      "id": "asset-52",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/VerifiedBuyerBadge-7XYDxj7V.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-52.css"
+    },
+    {
+      "id": "asset-53",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/MediaThumbnailList-_Bi0Az2r.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-53.css"
+    },
+    {
+      "id": "asset-54",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/VerifiedByShopBadge-Bv7p41fb.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-54.css"
+    },
+    {
+      "id": "asset-55",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/quantity-popover.css?v=35756887713936013081757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-55.css"
+    },
+    {
+      "id": "asset-56",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-card.css?v=3813106765437817911757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-56.css"
+    },
+    {
+      "id": "asset-57",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/widget_v3_base.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-57.css"
+    },
+    {
+      "id": "asset-58",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/widget_v3_main.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-58.css"
+    },
+    {
+      "id": "asset-59",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/widget_v3_form.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-59.css"
+    },
+    {
+      "id": "asset-60",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-list-menu.css?v=104041118571611195281757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-60.css"
+    },
+    {
+      "id": "asset-61",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-search.css?v=136537470209702241511757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-61.css"
+    },
+    {
+      "id": "asset-62",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-menu-drawer.css?v=103379661879803456331757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-62.css"
+    },
+    {
+      "id": "asset-63",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-cart-notification.css?v=183975093884001224881757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-63.css"
+    },
+    {
+      "id": "asset-64",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/shop-product-details.css?v=100346347171907244161757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-64.css"
+    },
+    {
+      "id": "asset-65",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/variant-selector.css?v=45001809163293027461757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-65.css"
+    },
+    {
+      "id": "asset-66",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/sticky-add-to-cart.css?v=82621805323975129591757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-66.css"
+    },
+    {
+      "id": "asset-67",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/product-comparison.css?v=116047014939531241601757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-67.css"
+    },
+    {
+      "id": "asset-68",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/satisfaction-guarantee.css?v=105348127402325184741757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-68.css"
+    },
+    {
+      "id": "asset-69",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-newsletter.css?v=75182984796780202591757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-69.css"
+    },
+    {
+      "id": "asset-70",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/component-list-social.css?v=82875887692856687851757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-70.css"
+    },
+    {
+      "id": "asset-71",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/section-custom-footer.css?v=126855205541740982751757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-71.css"
+    },
+    {
+      "id": "asset-72",
+      "role": "stylesheet",
+      "kind": "stylesheet",
+      "source_url": "https://cdn.shopify.com/extensions/01a015c5-193a-75f3-8ddd-265b30d85581/upcart-2-406/assets/upcart-stylesheet.css",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-72.css"
+    },
+    {
+      "id": "asset-73",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://shopify-extension.getredo.com/main.js?widget_id=zzhkusjeb6lhrsi&shop=1ppujz-hs.myshopify.com",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-73.js"
+    },
+    {
+      "id": "asset-74",
+      "role": "script",
+      "kind": "asset",
+      "source_url": "https://www.googletagmanager.com/gtag/js?id=AW-18358749936&cx=c&gtm=4e68p1",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-74.bin"
+    },
+    {
+      "id": "asset-75",
+      "role": "script",
+      "kind": "asset",
+      "source_url": "https://www.googletagmanager.com/gtag/js?id=G-52ZYQ6D0SM&cx=c&gtm=4e68p1",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-75.bin"
+    },
+    {
+      "id": "asset-76",
+      "role": "script",
+      "kind": "asset",
+      "source_url": "https://connect.facebook.net/signals/config/701892276256514?v=2.9.385&r=stable&domain=orvele.com&im=1&hme=1a72ec78e057d90ba48afa55a82b063b1c9b6ab7c0155009fecc72226a622ed2&ex_m=113%2C218%2C164%2C25%2C78%2C79%2C156%2C74%2C73%2C11%2C174%2C98%2C19%2C148%2C136%2C43%2C81%2C86%2C144%2C169%2C176%2C29%2C17%2C30%2C31%2C32%2C34%2C52%2C157%2C83%2C121%2C21%2C23%2C48%2C44%2C46%2C45%2C91%2C100%2C104%2C119%2C155%2C158%2C50%2C120%2C27%2C24%2C128%2C75%2C40%2C160%2C159%2C161%2C152%2C150%2C28%2C39%2C63%2C118%2C171%2C76%2C20%2C123%2C89%2C72%2C22%2C93%2C94%2C125%2C92%2C146%2C145%2C149%2C105%2C170%2C173%2C38%2C53%2C122%2C51%2C8%2C4%2C5%2C7%2C6%2C3%2C99%2C110%2C177%2C185%2C232%2C80%2C245%2C244%2C243%2C14%2C26%2C37%2C59%2C112%2C65%2C10%2C69%2C106%2C107%2C108%2C114%2C139%2C35%2C33%2C141%2C142%2C143%2C138%2C137%2C165%2C82%2C168%2C166%2C167%2C54%2C64%2C132%2C18%2C172%2C49%2C293%2C294%2C292%2C307%2C329%2C225%2C214%2C66%2C215%2C213%2C332%2C323%2C56%2C226%2C116%2C140%2C88%2C130%2C58%2C129%2C135%2C134%2C62%2C70%2C68%2C162%2C84%2C85%2C124%2C41%2C36%2C57%2C60%2C109%2C175%2C1%2C133%2C16%2C131%2C12%2C2%2C61%2C101%2C15%2C71%2C67%2C127%2C97%2C96%2C178%2C179%2C102%2C103%2C9%2C111%2C55%2C153%2C95%2C87%2C77%2C126%2C115%2C47%2C154%2C0%2C90%2C147%2C151%2C163%2C42%2C117%2C13%2C180",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-76.bin"
+    },
+    {
+      "id": "asset-77",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://connect.facebook.net/en_US/fbevents.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-77.js"
+    },
+    {
+      "id": "asset-78",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/s/trekkie.storefront.c3de4351cec0b617fdf79b803eb104cc6c0d8097.min.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-78.js"
+    },
+    {
+      "id": "asset-79",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-79.js"
+    },
+    {
+      "id": "asset-80",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://dashboard.heatmap.com/preprocessor.min.js?sid=5788",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-80.js"
+    },
+    {
+      "id": "asset-81",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/constants.js?v=132983761750457495441757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-81.js"
+    },
+    {
+      "id": "asset-82",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/pubsub.js?v=25310214064522200911757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-82.js"
+    },
+    {
+      "id": "asset-83",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/global.js?v=37527163003742591671757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-83.js"
+    },
+    {
+      "id": "asset-84",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/details-disclosure.js?v=41303341336680030131757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-84.js"
+    },
+    {
+      "id": "asset-85",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/details-modal.js?v=25581673532751508451757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-85.js"
+    },
+    {
+      "id": "asset-86",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/search-form.js?v=39816820021643430931757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-86.js"
+    },
+    {
+      "id": "asset-87",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/animations.js?v=88693664871331136111757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-87.js"
+    },
+    {
+      "id": "asset-88",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/checkouts/internal/preloads.js?locale=en-MA&default_configuration_id=3427795122",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-88.js"
+    },
+    {
+      "id": "asset-89",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://shop.app/checkouts/internal/preloads.js?locale=en-MA&default_configuration_id=3427795122&shop_id=73086599346",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-89.js"
+    },
+    {
+      "id": "asset-90",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-90.js"
+    },
+    {
+      "id": "asset-91",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-1bd60354.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-91.js"
+    },
+    {
+      "id": "asset-92",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/storefront/assets/storefront/autosizes-84416378.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-92.js"
+    },
+    {
+      "id": "asset-93",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-bf1cdb70.js?v=20250812",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-93.js"
+    },
+    {
+      "id": "asset-94",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-5059b83f.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-94.js"
+    },
+    {
+      "id": "asset-95",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/privacy-banner/storefront-banner.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-95.js"
+    },
+    {
+      "id": "asset-96",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/compiled_assets/scripts.js?v=100759261059905682171757964709",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-96.js"
+    },
+    {
+      "id": "asset-97",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/typography-settings.js?v=18315532711954260891757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-97.js"
+    },
+    {
+      "id": "asset-98",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/localization-form.js?v=144176611646395275351757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-98.js"
+    },
+    {
+      "id": "asset-99",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/cart-function.js?v=39253231294283315731757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-99.js"
+    },
+    {
+      "id": "asset-100",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/jquery.min.js?v=158417595810649192771757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-100.js"
+    },
+    {
+      "id": "asset-101",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/slick.min.js?v=22728409967738258071757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-101.js"
+    },
+    {
+      "id": "asset-102",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/custom.js?v=68678319430345472041757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-102.js"
+    },
+    {
+      "id": "asset-103",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static.klaviyo.com/onsite/js/T2QqKK/klaviyo.js?company_id=T2QqKK",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-103.js"
+    },
+    {
+      "id": "asset-104",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/extensions/01a04224-769a-79c9-84e5-63815d104353/redo-v1.287343/assets/main.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-104.js"
+    },
+    {
+      "id": "asset-105",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/extensions/01a04377-df7b-7b6c-a35a-a182826897a7/kaching-bundles-1960/assets/loader.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-105.js"
+    },
+    {
+      "id": "asset-106",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/loader.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-106.js"
+    },
+    {
+      "id": "asset-107",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/extensions/01a0401b-ddb5-72a6-aa8b-c23b1d8fff06/aftersell-1009/assets/aftersell-utm-triggers.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-107.js"
+    },
+    {
+      "id": "asset-108",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/wpm/ba6b9c454w7b023680pb7fefabem62184d01l.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-108.js"
+    },
+    {
+      "id": "asset-109",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-109.js"
+    },
+    {
+      "id": "asset-110",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.8.6.min.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-110.js"
+    },
+    {
+      "id": "asset-111",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.fe01275dac99f.js?cb=2",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-111.js"
+    },
+    {
+      "id": "asset-112",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static-tracking.klaviyo.com/onsite/js/static.2ec7158a674ab.js?cb=2",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-112.js"
+    },
+    {
+      "id": "asset-113",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static.klaviyo.com/onsite/js/runtime.86d31da57aa01.js?cb=2",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-113.js"
+    },
+    {
+      "id": "asset-114",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static.klaviyo.com/onsite/js/vendors~static~in_app_forms~signup_forms~post_identification_sync~web_personalization~client_identity~server_side_cookies~reviews~telemetry~customerHubRoot~contentBlocks~embeddedIntegrationBlocks~favorites~faq~.8d6c8876258ae.js?cb=2",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-114.js"
+    },
+    {
+      "id": "asset-115",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static-tracking.klaviyo.com/onsite/js/post_identification_sync.c24f1a19e213a.js?cb=2",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-115.js"
+    },
+    {
+      "id": "asset-116",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://static.klaviyo.com/onsite/js/event_adapter.a8b6cc8b3fcd8.js?cb=2",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-116.js"
+    },
+    {
+      "id": "asset-117",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/web-pixels@a6b9c454w7b023680pb7fefabem62184d01/app/web-pixel-2462154930@9120410995b7c9c6f4f039573265c0ea~2/pixel.legacy.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-117.js"
+    },
+    {
+      "id": "asset-118",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/web-pixels@a6b9c454w7b023680pb7fefabem62184d01/app/web-pixel-1525743794@abff2a8add143ccb04deb20f0ebd74a9~2/pixel.legacy.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-118.js"
+    },
+    {
+      "id": "asset-119",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/storefront/webmcp/webmcp-0.1.1.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-119.js"
+    },
+    {
+      "id": "asset-120",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-120.js"
+    },
+    {
+      "id": "asset-121",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://backend.alia-prod.com/public/launcher.js?shop=1ppujz-hs.myshopify.com",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-121.js"
+    },
+    {
+      "id": "asset-122",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://dashboard.heatmap.com/heatmap-light.min.js?sid=5788&_v=1787827172937",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-122.js"
+    },
+    {
+      "id": "asset-123",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/extensions/01a0388e-f6b4-7729-9b93-e14fc9114297/judgeme-723/assets/review_widget.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-123.js"
+    },
+    {
+      "id": "asset-124",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://backend.alia-prod.com/public/app.js?tag=v3.8.9",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-124.js"
+    },
+    {
+      "id": "asset-125",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/cart.js?v=122033531166862923431757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-125.js"
+    },
+    {
+      "id": "asset-126",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/quantity-popover.js?v=60591064992082577721757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-126.js"
+    },
+    {
+      "id": "asset-127",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/predictive-search.js?v=47712606227381875311757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-127.js"
+    },
+    {
+      "id": "asset-128",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/cart-drawer.js?v=162869949361396669171757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-128.js"
+    },
+    {
+      "id": "asset-129",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/shop-product-details.js?v=58570797570510269401757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-129.js"
+    },
+    {
+      "id": "asset-130",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/facets.js?v=105670031958728952761757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-130.js"
+    },
+    {
+      "id": "asset-131",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/swatch.js?v=111603181540343972631757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-131.js"
+    },
+    {
+      "id": "asset-132",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/product-form.js?v=155033014866026203101757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-132.js"
+    },
+    {
+      "id": "asset-133",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/storefront/standard-actions.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-133.js"
+    },
+    {
+      "id": "asset-134",
+      "role": "script",
+      "kind": "asset",
+      "source_url": "https://www.googletagmanager.com/gtag/js?id=G-52ZYQ6D0SM",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-134.bin"
+    },
+    {
+      "id": "asset-135",
+      "role": "script",
+      "kind": "asset",
+      "source_url": "https://www.googletagmanager.com/gtag/js?id=AW-18358749936",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-135.bin"
+    },
+    {
+      "id": "asset-136",
+      "role": "script",
+      "kind": "asset",
+      "source_url": "https://www.googletagmanager.com/gtag/js?id=GT-PLTD3NXZ",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-136.bin"
+    },
+    {
+      "id": "asset-137",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/cart-notification.js?v=28896743855395288951757964677",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-137.js"
+    },
+    {
+      "id": "asset-138",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/product-details.js?v=68312688291858383771757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-138.js"
+    },
+    {
+      "id": "asset-139",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/product-info.js?v=170227857165512918841757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-139.js"
+    },
+    {
+      "id": "asset-140",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/variant-selector.js?v=24663428295134623421757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-140.js"
+    },
+    {
+      "id": "asset-141",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/product-gallery.js?v=101617690885881049651757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-141.js"
+    },
+    {
+      "id": "asset-142",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/sticky-add-to-cart.js?v=37152140853052706581757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-142.js"
+    },
+    {
+      "id": "asset-143",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/product-comparison.js?v=76511950596232917681757964678",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-143.js"
+    },
+    {
+      "id": "asset-144",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://orvele.com/cdn/shop/t/2/assets/satisfaction-guarantee.js?v=160749142768387225321757964679",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-144.js"
+    },
+    {
+      "id": "asset-145",
+      "role": "script",
+      "kind": "script",
+      "source_url": "https://cdn.shopify.com/extensions/01a015c5-193a-75f3-8ddd-265b30d85581/upcart-2-406/assets/upcart-bundle.js",
+      "suggested_local_path": "04-backed-by-over-10-839-happy-customers/assets/asset-145.js"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "section_title": "Backed by over 10,839+‎ Happy customers",
+  "section_slug": "04-backed-by-over-10-839-happy-customers",
+  "section_tag": "section",
+  "section_id": "shopify-section-template--20083730448562__product_comparison_Yh3ePy",
+  "section_classes": [
+    "shopify-section",
+    "section",
+    "fp-selected"
+  ],
+  "style_dna": {
+    "bg": "rgb(247, 252, 255)",
+    "container_max_width": "374px",
+    "container_padding": "0px",
+    "font": "Montserrat, sans-serif",
+    "text_color": "rgb(24, 27, 29)"
+  },
+  "capture": {
+    "viewport": {
+      "dpr": 3.0000001192092896,
+      "height": 1521,
+      "width": 704
+    },
+    "clip": {
+      "height": 678,
+      "width": 374,
+      "x": 8,
+      "y": 4005
+    }
+  },
+  "content_summary": {
+    "raw_text_preview": "Backed by over 10,839+\n‎ Happy customers\nThis premium-grade hydrocolloid roll has helped 10,000+ users keep molluscum bumps covered — proving your skin just needs the right environment to repair itself.\nOur Product\nOriginal\nOthers\nKnock-off\nCustom Coverage\nCost Efficiency\nComfort & Durability\nBacteria Protection\n4",
+    "image_count": 0,
+    "background_image_count": 0,
+    "link_button_count": 0
+  },
+  "inspect_summary": {
+    "inline_svg_count": 10,
+    "icon_node_count": 12,
+    "key_node_count": 6
+  },
+  "asset_count": 145
+}

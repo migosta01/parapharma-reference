@@ -1,0 +1,43 @@
+{
+  "section_title": "How it works",
+  "section_slug": "03-how-it-works",
+  "section_tag": "section",
+  "section_id": "shopify-section-template--20083730448562__image_with_text_PUWjX9",
+  "section_classes": [
+    "shopify-section",
+    "section",
+    "fp-selected"
+  ],
+  "style_dna": {
+    "bg": "rgb(247, 252, 255)",
+    "container_max_width": "374px",
+    "container_padding": "0px",
+    "font": "Montserrat, sans-serif",
+    "text_color": "rgb(24, 27, 29)"
+  },
+  "capture": {
+    "viewport": {
+      "dpr": 3.0000001192092896,
+      "height": 1521,
+      "width": 704
+    },
+    "clip": {
+      "height": 619,
+      "width": 374,
+      "x": 8,
+      "y": 3424
+    }
+  },
+  "content_summary": {
+    "raw_text_preview": "How it works\nOrvele's Hydrocolloid Roll works by creating a sealed, covered\nenvironment that absorbs fluid and keeps the area protected, all without harsh chemicals.\nSimply cut the size you need, apply it, and leave it on for at least 8 hours.\n3",
+    "image_count": 1,
+    "background_image_count": 0,
+    "link_button_count": 0
+  },
+  "inspect_summary": {
+    "inline_svg_count": 0,
+    "icon_node_count": 1,
+    "key_node_count": 4
+  },
+  "asset_count": 146
+}

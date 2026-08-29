@@ -1,0 +1,43 @@
+{
+  "section_title": "Money-Back Guarantee",
+  "section_slug": "06-money-back-guarantee",
+  "section_tag": "section",
+  "section_id": "shopify-section-template--20083730448562__satisfaction_guarantee_J4ypTy",
+  "section_classes": [
+    "shopify-section",
+    "guarantee-section",
+    "fp-selected"
+  ],
+  "style_dna": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "container_max_width": "100%",
+    "container_padding": "0px",
+    "font": "Montserrat, sans-serif",
+    "text_color": "rgb(24, 27, 29)"
+  },
+  "capture": {
+    "viewport": {
+      "dpr": 3.0000001192092896,
+      "height": 1521,
+      "width": 704
+    },
+    "clip": {
+      "height": 485,
+      "width": 374,
+      "x": 8,
+      "y": 4716
+    }
+  },
+  "content_summary": {
+    "raw_text_preview": "Money-Back Guarantee\nWe're so confident in the quality of our product that we offer a satisfaction guarantee. If you're not completely satisfied with your purchase, simply return the item within 30 days for a full refund.\nCLAIM NOW\n100% Satisfaction\nFast Shipping\nEasy Returns\n6",
+    "image_count": 0,
+    "background_image_count": 0,
+    "link_button_count": 2
+  },
+  "inspect_summary": {
+    "inline_svg_count": 8,
+    "icon_node_count": 10,
+    "key_node_count": 8
+  },
+  "asset_count": 145
+}
